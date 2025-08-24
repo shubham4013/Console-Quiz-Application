@@ -12,30 +12,58 @@ C) 5
 D) 6
 Answer: B
 
-Q: What is 2 + 2?
-A) 3
-B) 4
-C) 5
-D) 6
+Q: Which company developed Java?
+A) Apple
+B) Sun Microsystems
+C) Google
+D) Microsoft
 Answer: B
 
-Q: What is 2 + 2?
-A) 3
-B) 4
-C) 5
-D) 6
+Q: Which of these is not a Java primitive type?
+A) int
+B) float
+C) String
+D) boolean
+Answer: C
+
+Q: What is the size of int in Java?
+A) 2 bytes
+B) 4 bytes
+C) 8 bytes
+D) Depends on OS
 Answer: B
 
-Q: What is 2 + 2?
-A) 3
-B) 4
-C) 5
-D) 6
+Q: Which method is the entry point of a Java program?
+A) main()
+B) start()
+C) run()
+D) init()
+Answer: A
+
+Q: Which operator is used for comparison in Java?
+A) ==
+B) =
+C) !=
+D) <>
+Answer: A
+
+Q: Which collection class allows duplicate elements?
+A) HashSet
+B) ArrayList
+C) TreeSet
+D) LinkedHashSet
 Answer: B
 
-Q: What is 2 + 2?
-A) 3
-B) 4
-C) 5
-D) 6
-Answer: B
+Q: Which exception is thrown when dividing by zero?
+A) ArithmeticException
+B) NullPointerException
+C) IOException
+D) ClassNotFoundException
+Answer: A
+
+Q: Which keyword is used to inherit a class in Java?
+A) extends
+B) implements
+C) inherits
+D) super
+Answer: A
